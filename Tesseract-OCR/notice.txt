@@ -1,0 +1,1 @@
+set /p Var=<dupa.txt.txt - zapisuje tekst z pliku txt do zmiennej Var
